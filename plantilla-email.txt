@@ -1,0 +1,44 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=iso-8859-1"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Gotham Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+span.EstiloCorreo17
+	{mso-style-type:personal-compose;
+	font-family:"Gotham Thin";
+	color:#2F5496;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=ES-CO link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'><b>Señor(a)</b> </span><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif;mso-fareast-language:ES-CO'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><b><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'><nombre> - <cedula><o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><b><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'>Dirección: <conjunto><o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><b><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'><ciudad>-<departamento><o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif;color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify'><span lang=ES-TRAD style='color:#1F497D'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'>Apreciado locatario,</span><span lang=ES-TRAD style='color:#1F497D'><o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span lang=ES-TRAD style='color:#1F497D'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'>Realizando las validaciones del Contrato Leasing No. <b><contrato></b>, &nbsp;se evidencia que registra un saldo en mora por concepto de impuesto predial, del activo dado en Leasing para la vigencia 2020<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'>Por lo anterior, &nbsp;lo invitamos a mantener al día sus obligaciones tributarias y demás gastos relacionados con el activo dado en Leasing Habitacional, evitando así sanciones y costos adicionales que se puedan generar. Es importante recordar que el Fondo Nacional del Ahorro no pagará ningún tipo de obligación asociada al activo leasing (impuestos prediales, valorización y administración), dado que es responsabilidad del locatario asumir este tipo de gastos, según lo establecido en el Contrato.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:35.4pt;text-align:justify'><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif;'>Así mismo</span><span lang=ES-TRAD style='font-size:10.0pt;font-family:"Century Gothic",sans-serif'>, <span >agradecemos </span>enviar su respectivo soporte de pago a<span style='color:#1F497D'> </span>nuestro proveedor TCI SOFTWARE (encargado de administrar los bienes leasing) al correo electrónico <a href="mailto:fna@grupotci.com.co">fna@grupotci.com.co</a><span style='color:#1F497D'> y <a href="mailto:adminsitracioninmuebles@fna.gov.co">adminsitracioninmuebles@fna.gov.co</a></span><o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span lang=ES-TRAD style='color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-family:"Gotham Thin";color:#2F5496'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><u><span style='font-family:"Gotham Thin";color:#2F5496'><o:p><span style='text-decoration:none'>&nbsp;</span></o:p></span></u></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
